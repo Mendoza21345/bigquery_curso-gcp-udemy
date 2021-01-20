@@ -4,6 +4,11 @@
 #BigQuery también realiza un seguimiento de las estadísticas sobre consultas, 
 #como la hora de creación, la hora de finalización y el total de bytes procesados.
 
+#Para ver como se ven os datos abre el conjunto de datos Github
+#En la la vista gr�fica de BigQueary
+#https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=github_repos&t=commits&page=table
+
+
 #En este paso, deshabilitará el almacenamiento en caché y también mostrará 
 #estadísticas sobre las consultas.
 

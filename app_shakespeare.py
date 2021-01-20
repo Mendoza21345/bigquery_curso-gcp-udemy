@@ -1,3 +1,7 @@
+#Puedes ver más detalles de la tabla Shakespeare 
+#En la consola de BigQuery en el siguiente Link
+#https://bigquery.cloud.google.com/table/bigquery-public-data:samples.shakespeare
+
 from google.cloud import bigquery
 
 client = bigquery.Client()

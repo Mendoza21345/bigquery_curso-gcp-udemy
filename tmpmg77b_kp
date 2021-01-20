@@ -4,10 +4,6 @@
 #También usarás la consola web de BigQuery para obtener una vista previa 
 #y ejecutar consultas ad-hoc.
 
-#Para ver como se ven os datos abre el conjunto de datos Github
-#En la la vista gráfica de BigQueary
-#https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=github_repos&t=commits&page=table
-
 #Para ver cómo se ven los datos, abra el conjunto de datos 
 #de GitHub en la IU web de BigQuery:
     
